@@ -164,3 +164,6 @@ cython_debug/
 
 # Firebase files
 firebase-service-account-key.json
+*.mp4
+*.mov
+thumbnails

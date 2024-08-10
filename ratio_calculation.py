@@ -1,4 +1,4 @@
-import os
+import json
 import ffmpeg
 
 class MediaInfo:
@@ -8,8 +8,13 @@ class MediaInfo:
         self.width = width
         self.height = height
 
-    def __str__(self):
-        return f'MediaInfo(url: "{self.url}", bitrate: {self.bitrate}, width: {self.width}, height: {self.height})'
+    def to_dict(self):
+        return {
+            "url": self.url,
+            "bitrate": self.bitrate,
+            "width": self.width,
+            "height": self.height
+        }
 
 def get_video_info_from_url(url):
     """Get video information (bitrate, width, height) from a video URL."""
@@ -26,16 +31,17 @@ def get_video_info_from_url(url):
         print(f"Error processing {url}: {e}")
         return None
 
-def generate_kotlin_val(url_list):
+def generate_json_list(url_list):
     media_info_list = []
     
     for url in url_list:
         info = get_video_info_from_url(url)
         if info:
-            media_info_list.append(str(info))
+            media_info_list.append(info.to_dict())
     
-    kotlin_val = f"val urlList = listOf(\n    {',\n    '.join(media_info_list)}\n)"
-    return kotlin_val
+    json_list = json.dumps(media_info_list, indent=4)
+    return json_list
+
 
 # Example usage
 url_list = [
@@ -116,5 +122,5 @@ url_list = [
         "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/34_20240808182151_1994829-hd_1920_1080_24fps.mp4"
 ]
 
-kotlin_code = generate_kotlin_val(url_list)
-print(kotlin_code)
+json_data = generate_json_list(url_list)
+print(json_data)

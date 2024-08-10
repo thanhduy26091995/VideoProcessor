@@ -1,0 +1,701 @@
+2024-08-10 15:22:33,953 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:22:59,861 - WARNING - Failed to generate small thumbnail at 25s. Stopping.
+2024-08-10 15:23:00,043 - WARNING - Failed to generate medium thumbnail at 25s. Stopping.
+2024-08-10 15:23:00,043 - INFO - No more thumbnails generated after 25s.
+2024-08-10 15:23:00,043 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 15:23:02,047 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:23:21,761 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:23:22,441 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:23:22,441 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:23:22,441 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:23:54,035 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:24:19,923 - WARNING - Failed to generate small thumbnail at 25s. Stopping.
+2024-08-10 15:24:20,106 - WARNING - Failed to generate medium thumbnail at 25s. Stopping.
+2024-08-10 15:24:20,106 - INFO - No more thumbnails generated after 25s.
+2024-08-10 15:24:20,106 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 15:24:22,060 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:24:41,785 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:24:42,471 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:24:42,471 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:24:42,471 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:24:43,269 - INFO - Processing completed. Results saved to response.json
+2024-08-10 15:26:31,205 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:26:57,173 - WARNING - Failed to generate small thumbnail at 25s. Stopping.
+2024-08-10 15:26:57,358 - WARNING - Failed to generate medium thumbnail at 25s. Stopping.
+2024-08-10 15:26:57,359 - INFO - No more thumbnails generated after 25s.
+2024-08-10 15:26:57,359 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 15:26:59,327 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:27:18,919 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:27:19,577 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:27:19,577 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:27:19,577 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:27:21,391 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:27:46,021 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:27:46,889 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:27:46,889 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:27:46,889 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:27:48,640 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:29:09,088 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:29:09,641 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:29:09,641 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:29:09,641 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:29:11,515 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:29:52,909 - WARNING - Failed to generate small thumbnail at 19s. Stopping.
+2024-08-10 15:29:54,145 - WARNING - Failed to generate medium thumbnail at 19s. Stopping.
+2024-08-10 15:29:54,145 - INFO - No more thumbnails generated after 19s.
+2024-08-10 15:29:54,145 - INFO - Generated thumbnails for timestamps up to 19 seconds.
+2024-08-10 15:29:56,123 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:30:28,270 - WARNING - Failed to generate small thumbnail at 17s. Stopping.
+2024-08-10 15:30:29,379 - WARNING - Failed to generate medium thumbnail at 17s. Stopping.
+2024-08-10 15:30:29,379 - INFO - No more thumbnails generated after 17s.
+2024-08-10 15:30:29,379 - INFO - Generated thumbnails for timestamps up to 17 seconds.
+2024-08-10 15:30:31,483 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:31:30,374 - WARNING - Failed to generate small thumbnail at 22s. Stopping.
+2024-08-10 15:31:32,076 - WARNING - Failed to generate medium thumbnail at 22s. Stopping.
+2024-08-10 15:31:32,076 - INFO - No more thumbnails generated after 22s.
+2024-08-10 15:31:32,076 - INFO - Generated thumbnails for timestamps up to 22 seconds.
+2024-08-10 15:31:34,314 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:31:50,477 - WARNING - Failed to generate small thumbnail at 10s. Stopping.
+2024-08-10 15:31:51,227 - WARNING - Failed to generate medium thumbnail at 10s. Stopping.
+2024-08-10 15:31:51,227 - INFO - No more thumbnails generated after 10s.
+2024-08-10 15:31:51,227 - INFO - Generated thumbnails for timestamps up to 10 seconds.
+2024-08-10 15:31:52,676 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:31:53,404 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:32:12,859 - WARNING - Failed to generate small thumbnail at 11s. Stopping.
+2024-08-10 15:32:13,632 - WARNING - Failed to generate medium thumbnail at 11s. Stopping.
+2024-08-10 15:32:13,632 - INFO - No more thumbnails generated after 11s.
+2024-08-10 15:32:13,632 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 15:32:15,323 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:32:44,050 - WARNING - Failed to generate small thumbnail at 12s. Stopping.
+2024-08-10 15:32:45,959 - WARNING - Failed to generate medium thumbnail at 12s. Stopping.
+2024-08-10 15:32:45,959 - INFO - No more thumbnails generated after 12s.
+2024-08-10 15:32:45,959 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 15:32:48,625 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:33:18,366 - WARNING - Failed to generate small thumbnail at 12s. Stopping.
+2024-08-10 15:33:19,753 - WARNING - Failed to generate medium thumbnail at 12s. Stopping.
+2024-08-10 15:33:19,754 - INFO - No more thumbnails generated after 12s.
+2024-08-10 15:33:19,754 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 15:33:21,884 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:33:45,124 - WARNING - Failed to generate small thumbnail at 15s. Stopping.
+2024-08-10 15:33:45,897 - WARNING - Failed to generate medium thumbnail at 15s. Stopping.
+2024-08-10 15:33:45,897 - INFO - No more thumbnails generated after 15s.
+2024-08-10 15:33:45,897 - INFO - Generated thumbnails for timestamps up to 15 seconds.
+2024-08-10 15:33:47,340 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:34:03,141 - WARNING - Failed to generate small thumbnail at 11s. Stopping.
+2024-08-10 15:34:03,708 - WARNING - Failed to generate medium thumbnail at 11s. Stopping.
+2024-08-10 15:34:03,708 - INFO - No more thumbnails generated after 11s.
+2024-08-10 15:34:03,708 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 15:34:05,298 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:34:05,960 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:34:21,189 - WARNING - Failed to generate small thumbnail at 11s. Stopping.
+2024-08-10 15:34:21,674 - WARNING - Failed to generate medium thumbnail at 11s. Stopping.
+2024-08-10 15:34:21,674 - INFO - No more thumbnails generated after 11s.
+2024-08-10 15:34:21,674 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 15:34:23,395 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:35:18,298 - WARNING - Failed to generate small thumbnail at 26s. Stopping.
+2024-08-10 15:35:19,509 - WARNING - Failed to generate medium thumbnail at 26s. Stopping.
+2024-08-10 15:35:19,509 - INFO - No more thumbnails generated after 26s.
+2024-08-10 15:35:19,509 - INFO - Generated thumbnails for timestamps up to 26 seconds.
+2024-08-10 15:35:21,297 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:35:58,012 - WARNING - Failed to generate small thumbnail at 26s. Stopping.
+2024-08-10 15:35:58,515 - WARNING - Failed to generate medium thumbnail at 26s. Stopping.
+2024-08-10 15:35:58,515 - INFO - No more thumbnails generated after 26s.
+2024-08-10 15:35:58,515 - INFO - Generated thumbnails for timestamps up to 26 seconds.
+2024-08-10 15:36:00,534 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:38:04,694 - WARNING - Failed to generate small thumbnail at 46s. Stopping.
+2024-08-10 15:38:06,473 - WARNING - Failed to generate medium thumbnail at 46s. Stopping.
+2024-08-10 15:38:06,473 - INFO - No more thumbnails generated after 46s.
+2024-08-10 15:38:06,473 - INFO - Generated thumbnails for timestamps up to 46 seconds.
+2024-08-10 15:38:08,568 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:38:09,342 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:38:29,105 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:38:29,712 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:38:29,712 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:38:29,712 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:38:31,476 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:38:32,314 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:39:04,859 - WARNING - Failed to generate small thumbnail at 18s. Stopping.
+2024-08-10 15:39:05,763 - WARNING - Failed to generate medium thumbnail at 18s. Stopping.
+2024-08-10 15:39:05,764 - INFO - No more thumbnails generated after 18s.
+2024-08-10 15:39:05,764 - INFO - Generated thumbnails for timestamps up to 18 seconds.
+2024-08-10 15:39:08,072 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:39:45,233 - WARNING - Failed to generate small thumbnail at 16s. Stopping.
+2024-08-10 15:39:46,555 - WARNING - Failed to generate medium thumbnail at 16s. Stopping.
+2024-08-10 15:39:46,555 - INFO - No more thumbnails generated after 16s.
+2024-08-10 15:39:46,555 - INFO - Generated thumbnails for timestamps up to 16 seconds.
+2024-08-10 15:39:48,602 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:40:10,254 - WARNING - Failed to generate small thumbnail at 14s. Stopping.
+2024-08-10 15:40:10,871 - WARNING - Failed to generate medium thumbnail at 14s. Stopping.
+2024-08-10 15:40:10,871 - INFO - No more thumbnails generated after 14s.
+2024-08-10 15:40:10,871 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 15:40:12,900 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:41:24,570 - WARNING - Failed to generate small thumbnail at 30s. Stopping.
+2024-08-10 15:41:26,118 - WARNING - Failed to generate medium thumbnail at 30s. Stopping.
+2024-08-10 15:41:26,118 - INFO - No more thumbnails generated after 30s.
+2024-08-10 15:41:26,118 - INFO - Generated thumbnails for timestamps up to 30 seconds.
+2024-08-10 15:41:27,937 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:41:28,685 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:41:46,470 - WARNING - Failed to generate small thumbnail at 12s. Stopping.
+2024-08-10 15:41:47,075 - WARNING - Failed to generate medium thumbnail at 12s. Stopping.
+2024-08-10 15:41:47,075 - INFO - No more thumbnails generated after 12s.
+2024-08-10 15:41:47,075 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 15:41:48,432 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:42:04,703 - WARNING - Failed to generate small thumbnail at 11s. Stopping.
+2024-08-10 15:42:05,273 - WARNING - Failed to generate medium thumbnail at 11s. Stopping.
+2024-08-10 15:42:05,273 - INFO - No more thumbnails generated after 11s.
+2024-08-10 15:42:05,274 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 15:42:06,964 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:42:07,715 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:42:27,948 - WARNING - Failed to generate small thumbnail at 14s. Stopping.
+2024-08-10 15:42:28,502 - WARNING - Failed to generate medium thumbnail at 14s. Stopping.
+2024-08-10 15:42:28,502 - INFO - No more thumbnails generated after 14s.
+2024-08-10 15:42:28,502 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 15:42:30,710 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:43:52,531 - WARNING - Failed to generate small thumbnail at 30s. Stopping.
+2024-08-10 15:43:54,476 - WARNING - Failed to generate medium thumbnail at 30s. Stopping.
+2024-08-10 15:43:54,476 - INFO - No more thumbnails generated after 30s.
+2024-08-10 15:43:54,476 - INFO - Generated thumbnails for timestamps up to 30 seconds.
+2024-08-10 15:43:56,353 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:44:50,628 - WARNING - Failed to generate small thumbnail at 22s. Stopping.
+2024-08-10 15:44:52,153 - WARNING - Failed to generate medium thumbnail at 22s. Stopping.
+2024-08-10 15:44:52,153 - INFO - No more thumbnails generated after 22s.
+2024-08-10 15:44:52,153 - INFO - Generated thumbnails for timestamps up to 22 seconds.
+2024-08-10 15:44:54,251 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:45:25,582 - WARNING - Failed to generate small thumbnail at 15s. Stopping.
+2024-08-10 15:45:26,769 - WARNING - Failed to generate medium thumbnail at 15s. Stopping.
+2024-08-10 15:45:26,769 - INFO - No more thumbnails generated after 15s.
+2024-08-10 15:45:26,769 - INFO - Generated thumbnails for timestamps up to 15 seconds.
+2024-08-10 15:45:28,883 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:46:06,612 - WARNING - Failed to generate small thumbnail at 21s. Stopping.
+2024-08-10 15:46:07,593 - WARNING - Failed to generate medium thumbnail at 21s. Stopping.
+2024-08-10 15:46:07,594 - INFO - No more thumbnails generated after 21s.
+2024-08-10 15:46:07,594 - INFO - Generated thumbnails for timestamps up to 21 seconds.
+2024-08-10 15:46:09,290 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:46:34,676 - WARNING - Failed to generate small thumbnail at 14s. Stopping.
+2024-08-10 15:46:35,591 - WARNING - Failed to generate medium thumbnail at 14s. Stopping.
+2024-08-10 15:46:35,591 - INFO - No more thumbnails generated after 14s.
+2024-08-10 15:46:35,591 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 15:46:37,345 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:46:52,237 - WARNING - Failed to generate small thumbnail at 11s. Stopping.
+2024-08-10 15:46:52,690 - WARNING - Failed to generate medium thumbnail at 11s. Stopping.
+2024-08-10 15:46:52,690 - INFO - No more thumbnails generated after 11s.
+2024-08-10 15:46:52,690 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 15:46:54,166 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 15:46:54,924 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:47:13,617 - WARNING - Failed to generate small thumbnail at 11s. Stopping.
+2024-08-10 15:47:14,736 - WARNING - Failed to generate medium thumbnail at 11s. Stopping.
+2024-08-10 15:47:14,736 - INFO - No more thumbnails generated after 11s.
+2024-08-10 15:47:14,736 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 15:47:16,302 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:47:37,344 - WARNING - Failed to generate small thumbnail at 14s. Stopping.
+2024-08-10 15:47:38,021 - WARNING - Failed to generate medium thumbnail at 14s. Stopping.
+2024-08-10 15:47:38,021 - INFO - No more thumbnails generated after 14s.
+2024-08-10 15:47:38,022 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 15:47:39,961 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:47:58,918 - WARNING - Failed to generate small thumbnail at 12s. Stopping.
+2024-08-10 15:47:59,581 - WARNING - Failed to generate medium thumbnail at 12s. Stopping.
+2024-08-10 15:47:59,581 - INFO - No more thumbnails generated after 12s.
+2024-08-10 15:47:59,581 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 15:48:01,143 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:48:19,452 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:48:20,067 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:48:20,067 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:48:20,067 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:48:21,864 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:48:53,663 - WARNING - Failed to generate small thumbnail at 15s. Stopping.
+2024-08-10 15:48:54,856 - WARNING - Failed to generate medium thumbnail at 15s. Stopping.
+2024-08-10 15:48:54,856 - INFO - No more thumbnails generated after 15s.
+2024-08-10 15:48:54,856 - INFO - Generated thumbnails for timestamps up to 15 seconds.
+2024-08-10 15:48:56,667 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:49:26,997 - WARNING - Failed to generate small thumbnail at 19s. Stopping.
+2024-08-10 15:49:27,746 - WARNING - Failed to generate medium thumbnail at 19s. Stopping.
+2024-08-10 15:49:27,746 - INFO - No more thumbnails generated after 19s.
+2024-08-10 15:49:27,746 - INFO - Generated thumbnails for timestamps up to 19 seconds.
+2024-08-10 15:49:29,509 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:50:56,827 - WARNING - Failed to generate small thumbnail at 32s. Stopping.
+2024-08-10 15:50:58,719 - WARNING - Failed to generate medium thumbnail at 32s. Stopping.
+2024-08-10 15:50:58,720 - INFO - No more thumbnails generated after 32s.
+2024-08-10 15:50:58,720 - INFO - Generated thumbnails for timestamps up to 32 seconds.
+2024-08-10 15:51:00,621 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:51:32,741 - WARNING - Failed to generate small thumbnail at 19s. Stopping.
+2024-08-10 15:51:33,664 - WARNING - Failed to generate medium thumbnail at 19s. Stopping.
+2024-08-10 15:51:33,664 - INFO - No more thumbnails generated after 19s.
+2024-08-10 15:51:33,664 - INFO - Generated thumbnails for timestamps up to 19 seconds.
+2024-08-10 15:51:35,602 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 15:51:59,994 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 15:52:00,950 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 15:52:00,950 - INFO - No more thumbnails generated after 13s.
+2024-08-10 15:52:00,951 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 15:52:04,479 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:03:53,755 - WARNING - Failed to generate small thumbnail at 86s. Stopping.
+2024-08-10 16:04:00,762 - WARNING - Failed to generate medium thumbnail at 86s. Stopping.
+2024-08-10 16:04:00,762 - INFO - No more thumbnails generated after 86s.
+2024-08-10 16:04:00,762 - INFO - Generated thumbnails for timestamps up to 86 seconds.
+2024-08-10 16:04:05,315 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:04:33,837 - WARNING - Failed to generate small thumbnail at 20s. Stopping.
+2024-08-10 16:04:34,386 - WARNING - Failed to generate medium thumbnail at 20s. Stopping.
+2024-08-10 16:04:34,387 - INFO - No more thumbnails generated after 20s.
+2024-08-10 16:04:34,387 - INFO - Generated thumbnails for timestamps up to 20 seconds.
+2024-08-10 16:04:35,921 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 16:04:36,714 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:05:13,806 - WARNING - Failed to generate small thumbnail at 18s. Stopping.
+2024-08-10 16:05:14,855 - WARNING - Failed to generate medium thumbnail at 18s. Stopping.
+2024-08-10 16:05:14,855 - INFO - No more thumbnails generated after 18s.
+2024-08-10 16:05:14,855 - INFO - Generated thumbnails for timestamps up to 18 seconds.
+2024-08-10 16:05:16,897 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:05:49,025 - WARNING - Failed to generate small thumbnail at 16s. Stopping.
+2024-08-10 16:05:50,275 - WARNING - Failed to generate medium thumbnail at 16s. Stopping.
+2024-08-10 16:05:50,275 - INFO - No more thumbnails generated after 16s.
+2024-08-10 16:05:50,275 - INFO - Generated thumbnails for timestamps up to 16 seconds.
+2024-08-10 16:05:52,406 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:06:37,010 - WARNING - Failed to generate small thumbnail at 25s. Stopping.
+2024-08-10 16:06:37,924 - WARNING - Failed to generate medium thumbnail at 25s. Stopping.
+2024-08-10 16:06:37,925 - INFO - No more thumbnails generated after 25s.
+2024-08-10 16:06:37,925 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 16:06:40,462 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:06:58,221 - WARNING - Failed to generate small thumbnail at 16s. Stopping.
+2024-08-10 16:06:58,535 - WARNING - Failed to generate medium thumbnail at 16s. Stopping.
+2024-08-10 16:06:58,536 - INFO - No more thumbnails generated after 16s.
+2024-08-10 16:06:58,536 - INFO - Generated thumbnails for timestamps up to 16 seconds.
+2024-08-10 16:07:01,564 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:09:55,486 - WARNING - Failed to generate small thumbnail at 42s. Stopping.
+2024-08-10 16:09:58,639 - WARNING - Failed to generate medium thumbnail at 42s. Stopping.
+2024-08-10 16:09:58,639 - INFO - No more thumbnails generated after 42s.
+2024-08-10 16:09:58,639 - INFO - Generated thumbnails for timestamps up to 42 seconds.
+2024-08-10 16:10:01,738 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:16:29,183 - WARNING - Failed to generate small thumbnail at 123s. Stopping.
+2024-08-10 16:16:31,543 - WARNING - Failed to generate medium thumbnail at 123s. Stopping.
+2024-08-10 16:16:31,543 - INFO - No more thumbnails generated after 123s.
+2024-08-10 16:16:31,543 - INFO - Generated thumbnails for timestamps up to 123 seconds.
+2024-08-10 16:16:34,442 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:17:41,860 - WARNING - Failed to generate small thumbnail at 23s. Stopping.
+2024-08-10 16:17:44,394 - WARNING - Failed to generate medium thumbnail at 23s. Stopping.
+2024-08-10 16:17:44,394 - INFO - No more thumbnails generated after 23s.
+2024-08-10 16:17:44,394 - INFO - Generated thumbnails for timestamps up to 23 seconds.
+2024-08-10 16:17:46,925 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:18:29,409 - WARNING - Failed to generate small thumbnail at 18s. Stopping.
+2024-08-10 16:18:30,816 - WARNING - Failed to generate medium thumbnail at 18s. Stopping.
+2024-08-10 16:18:30,817 - INFO - No more thumbnails generated after 18s.
+2024-08-10 16:18:30,817 - INFO - Generated thumbnails for timestamps up to 18 seconds.
+2024-08-10 16:18:32,861 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:19:16,817 - WARNING - Failed to generate small thumbnail at 24s. Stopping.
+2024-08-10 16:19:17,769 - WARNING - Failed to generate medium thumbnail at 24s. Stopping.
+2024-08-10 16:19:17,769 - INFO - No more thumbnails generated after 24s.
+2024-08-10 16:19:17,769 - INFO - Generated thumbnails for timestamps up to 24 seconds.
+2024-08-10 16:19:19,916 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:20:15,079 - WARNING - Failed to generate small thumbnail at 21s. Stopping.
+2024-08-10 16:20:16,661 - WARNING - Failed to generate medium thumbnail at 21s. Stopping.
+2024-08-10 16:20:16,661 - INFO - No more thumbnails generated after 21s.
+2024-08-10 16:20:16,661 - INFO - Generated thumbnails for timestamps up to 21 seconds.
+2024-08-10 16:20:18,612 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 16:20:19,564 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:21:16,525 - WARNING - Failed to generate small thumbnail at 23s. Stopping.
+2024-08-10 16:21:17,954 - WARNING - Failed to generate medium thumbnail at 23s. Stopping.
+2024-08-10 16:21:17,954 - INFO - No more thumbnails generated after 23s.
+2024-08-10 16:21:17,954 - INFO - Generated thumbnails for timestamps up to 23 seconds.
+2024-08-10 16:21:19,924 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 16:21:22,063 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:27:37,699 - WARNING - Failed to generate small thumbnail at 60s. Stopping.
+2024-08-10 16:27:42,734 - WARNING - Failed to generate medium thumbnail at 60s. Stopping.
+2024-08-10 16:27:42,734 - INFO - No more thumbnails generated after 60s.
+2024-08-10 16:27:42,734 - INFO - Generated thumbnails for timestamps up to 60 seconds.
+2024-08-10 16:27:46,508 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:31:09,835 - WARNING - Failed to generate small thumbnail at 43s. Stopping.
+2024-08-10 16:31:13,513 - WARNING - Failed to generate medium thumbnail at 43s. Stopping.
+2024-08-10 16:31:13,513 - INFO - No more thumbnails generated after 43s.
+2024-08-10 16:31:13,513 - INFO - Generated thumbnails for timestamps up to 43 seconds.
+2024-08-10 16:31:16,496 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:33:25,173 - WARNING - Failed to generate small thumbnail at 37s. Stopping.
+2024-08-10 16:33:27,989 - WARNING - Failed to generate medium thumbnail at 37s. Stopping.
+2024-08-10 16:33:27,990 - INFO - No more thumbnails generated after 37s.
+2024-08-10 16:33:27,990 - INFO - Generated thumbnails for timestamps up to 37 seconds.
+2024-08-10 16:33:30,207 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:34:03,953 - WARNING - Failed to generate small thumbnail at 20s. Stopping.
+2024-08-10 16:34:04,789 - WARNING - Failed to generate medium thumbnail at 20s. Stopping.
+2024-08-10 16:34:04,789 - INFO - No more thumbnails generated after 20s.
+2024-08-10 16:34:04,789 - INFO - Generated thumbnails for timestamps up to 20 seconds.
+2024-08-10 16:34:06,762 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 16:34:06,773 - INFO - Processing completed. Results saved to response.json
+2024-08-10 16:52:29,551 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:52:49,341 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:53:15,398 - WARNING - Failed to generate small thumbnail at 25s. Stopping.
+2024-08-10 16:53:15,586 - WARNING - Failed to generate medium thumbnail at 25s. Stopping.
+2024-08-10 16:53:15,586 - INFO - No more thumbnails generated after 25s.
+2024-08-10 16:53:15,586 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 16:53:17,561 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:53:39,891 - WARNING - Failed to generate small thumbnail at 13s. Stopping.
+2024-08-10 16:53:40,656 - WARNING - Failed to generate medium thumbnail at 13s. Stopping.
+2024-08-10 16:53:40,657 - INFO - No more thumbnails generated after 13s.
+2024-08-10 16:53:40,657 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 16:53:41,504 - INFO - Processing completed. Results saved to response.json
+2024-08-10 16:58:11,536 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_1.mp4...
+2024-08-10 16:58:12,842 - INFO - Downloaded video to video.mp4.
+2024-08-10 16:58:12,892 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:58:38,752 - WARNING - Failed to generate small thumbnail at 25s.
+2024-08-10 16:58:38,934 - WARNING - Failed to generate medium thumbnail at 25s.
+2024-08-10 16:58:38,935 - INFO - No more thumbnails generated after 25s.
+2024-08-10 16:58:38,935 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 16:58:39,608 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_3.mp4...
+2024-08-10 16:58:40,867 - INFO - Downloaded video to video.mp4.
+2024-08-10 16:58:40,913 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 16:58:59,953 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 16:59:00,550 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 16:59:00,550 - INFO - No more thumbnails generated after 13s.
+2024-08-10 16:59:00,550 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 16:59:01,365 - INFO - Processing completed. Results saved to response.json
+2024-08-10 17:05:15,924 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_1.mp4...
+2024-08-10 17:05:17,121 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:05:17,165 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:05:42,138 - WARNING - Failed to generate small thumbnail at 25s.
+2024-08-10 17:05:42,323 - WARNING - Failed to generate medium thumbnail at 25s.
+2024-08-10 17:05:42,323 - INFO - No more thumbnails generated after 25s.
+2024-08-10 17:05:42,323 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 17:05:42,983 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_3.mp4...
+2024-08-10 17:05:44,144 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:05:44,194 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:06:02,856 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 17:06:03,436 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 17:06:03,436 - INFO - No more thumbnails generated after 13s.
+2024-08-10 17:06:03,436 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 17:06:04,246 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_4.mp4...
+2024-08-10 17:06:05,640 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:06:05,713 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:06:31,456 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 17:06:32,309 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 17:06:32,309 - INFO - No more thumbnails generated after 13s.
+2024-08-10 17:06:32,309 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 17:06:33,148 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_12.mp4...
+2024-08-10 17:06:34,319 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:06:34,366 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:06:51,774 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 17:06:52,348 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 17:06:52,348 - INFO - No more thumbnails generated after 13s.
+2024-08-10 17:06:52,348 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 17:06:53,147 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_13.mp4...
+2024-08-10 17:06:54,719 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:06:54,809 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:07:38,550 - WARNING - Failed to generate small thumbnail at 19s.
+2024-08-10 17:07:39,757 - WARNING - Failed to generate medium thumbnail at 19s.
+2024-08-10 17:07:39,757 - INFO - No more thumbnails generated after 19s.
+2024-08-10 17:07:39,757 - INFO - Generated thumbnails for timestamps up to 19 seconds.
+2024-08-10 17:07:40,869 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_14.mp4...
+2024-08-10 17:07:42,210 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:07:42,279 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:08:16,695 - WARNING - Failed to generate small thumbnail at 17s.
+2024-08-10 17:08:17,770 - WARNING - Failed to generate medium thumbnail at 17s.
+2024-08-10 17:08:17,770 - INFO - No more thumbnails generated after 17s.
+2024-08-10 17:08:17,770 - INFO - Generated thumbnails for timestamps up to 17 seconds.
+2024-08-10 17:08:18,719 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_15.mp4...
+2024-08-10 17:08:20,452 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:08:20,505 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:09:15,880 - WARNING - Failed to generate small thumbnail at 22s.
+2024-08-10 17:09:17,442 - WARNING - Failed to generate medium thumbnail at 22s.
+2024-08-10 17:09:17,442 - INFO - No more thumbnails generated after 22s.
+2024-08-10 17:09:17,442 - INFO - Generated thumbnails for timestamps up to 22 seconds.
+2024-08-10 17:09:18,746 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_16.mp4...
+2024-08-10 17:09:19,978 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:09:20,026 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:09:36,051 - WARNING - Failed to generate small thumbnail at 10s.
+2024-08-10 17:09:36,659 - WARNING - Failed to generate medium thumbnail at 10s.
+2024-08-10 17:09:36,659 - INFO - No more thumbnails generated after 10s.
+2024-08-10 17:09:36,659 - INFO - Generated thumbnails for timestamps up to 10 seconds.
+2024-08-10 17:09:37,506 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_17.mp4...
+2024-08-10 17:09:38,240 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:09:38,295 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:09:38,295 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_18.mp4...
+2024-08-10 17:09:39,497 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:09:39,555 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:09:58,033 - WARNING - Failed to generate small thumbnail at 11s.
+2024-08-10 17:09:59,129 - WARNING - Failed to generate medium thumbnail at 11s.
+2024-08-10 17:09:59,129 - INFO - No more thumbnails generated after 11s.
+2024-08-10 17:09:59,129 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 17:09:59,889 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_19.mp4...
+2024-08-10 17:10:01,161 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:10:01,209 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:10:28,993 - WARNING - Failed to generate small thumbnail at 12s.
+2024-08-10 17:10:30,274 - WARNING - Failed to generate medium thumbnail at 12s.
+2024-08-10 17:10:30,274 - INFO - No more thumbnails generated after 12s.
+2024-08-10 17:10:30,274 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 17:10:31,095 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_20.mp4...
+2024-08-10 17:10:33,146 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:10:33,269 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:11:02,056 - WARNING - Failed to generate small thumbnail at 12s.
+2024-08-10 17:11:03,321 - WARNING - Failed to generate medium thumbnail at 12s.
+2024-08-10 17:11:03,321 - INFO - No more thumbnails generated after 12s.
+2024-08-10 17:11:03,321 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 17:11:04,476 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_21.mp4...
+2024-08-10 17:11:05,967 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:11:06,030 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:11:27,187 - WARNING - Failed to generate small thumbnail at 15s.
+2024-08-10 17:11:27,775 - WARNING - Failed to generate medium thumbnail at 15s.
+2024-08-10 17:11:27,776 - INFO - No more thumbnails generated after 15s.
+2024-08-10 17:11:27,776 - INFO - Generated thumbnails for timestamps up to 15 seconds.
+2024-08-10 17:11:28,629 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_22.mp4...
+2024-08-10 17:11:29,782 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:11:29,835 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:11:44,809 - WARNING - Failed to generate small thumbnail at 11s.
+2024-08-10 17:11:45,253 - WARNING - Failed to generate medium thumbnail at 11s.
+2024-08-10 17:11:45,253 - INFO - No more thumbnails generated after 11s.
+2024-08-10 17:11:45,253 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 17:11:46,025 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_23.mp4...
+2024-08-10 17:11:46,679 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:11:46,724 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:11:46,725 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_24.mp4...
+2024-08-10 17:11:47,992 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:11:48,049 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:12:03,516 - WARNING - Failed to generate small thumbnail at 11s.
+2024-08-10 17:12:03,966 - WARNING - Failed to generate medium thumbnail at 11s.
+2024-08-10 17:12:03,966 - INFO - No more thumbnails generated after 11s.
+2024-08-10 17:12:03,966 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 17:12:04,767 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_25.mp4...
+2024-08-10 17:12:06,153 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:12:06,211 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:13:01,428 - WARNING - Failed to generate small thumbnail at 26s.
+2024-08-10 17:13:02,517 - WARNING - Failed to generate medium thumbnail at 26s.
+2024-08-10 17:13:02,517 - INFO - No more thumbnails generated after 26s.
+2024-08-10 17:13:02,517 - INFO - Generated thumbnails for timestamps up to 26 seconds.
+2024-08-10 17:13:03,457 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_26.mp4...
+2024-08-10 17:13:05,039 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:13:05,088 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:13:40,342 - WARNING - Failed to generate small thumbnail at 26s.
+2024-08-10 17:13:40,857 - WARNING - Failed to generate medium thumbnail at 26s.
+2024-08-10 17:13:40,857 - INFO - No more thumbnails generated after 26s.
+2024-08-10 17:13:40,857 - INFO - Generated thumbnails for timestamps up to 26 seconds.
+2024-08-10 17:13:41,662 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_27.mp4...
+2024-08-10 17:13:43,743 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:13:43,803 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:15:51,015 - WARNING - Failed to generate small thumbnail at 46s.
+2024-08-10 17:15:52,880 - WARNING - Failed to generate medium thumbnail at 46s.
+2024-08-10 17:15:52,880 - INFO - No more thumbnails generated after 46s.
+2024-08-10 17:15:52,880 - INFO - Generated thumbnails for timestamps up to 46 seconds.
+2024-08-10 17:15:54,032 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_28.mp4...
+2024-08-10 17:15:54,726 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:15:54,792 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:15:54,792 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_29.mp4...
+2024-08-10 17:15:56,054 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:15:56,111 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:16:16,595 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 17:16:17,187 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 17:16:17,187 - INFO - No more thumbnails generated after 13s.
+2024-08-10 17:16:17,187 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 17:16:18,060 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_30.mp4...
+2024-08-10 17:16:18,900 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:16:18,983 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:16:18,983 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_31.mp4...
+2024-08-10 17:16:20,288 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:16:20,347 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:16:49,851 - WARNING - Failed to generate small thumbnail at 18s.
+2024-08-10 17:16:50,607 - WARNING - Failed to generate medium thumbnail at 18s.
+2024-08-10 17:16:50,608 - INFO - No more thumbnails generated after 18s.
+2024-08-10 17:16:50,608 - INFO - Generated thumbnails for timestamps up to 18 seconds.
+2024-08-10 17:16:51,538 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_32.mp4...
+2024-08-10 17:16:53,053 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:16:53,120 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:17:28,995 - WARNING - Failed to generate small thumbnail at 16s.
+2024-08-10 17:17:30,332 - WARNING - Failed to generate medium thumbnail at 16s.
+2024-08-10 17:17:30,332 - INFO - No more thumbnails generated after 16s.
+2024-08-10 17:17:30,333 - INFO - Generated thumbnails for timestamps up to 16 seconds.
+2024-08-10 17:17:31,394 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_33.mp4...
+2024-08-10 17:17:32,649 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:17:32,714 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:17:53,377 - WARNING - Failed to generate small thumbnail at 14s.
+2024-08-10 17:17:53,981 - WARNING - Failed to generate medium thumbnail at 14s.
+2024-08-10 17:17:53,981 - INFO - No more thumbnails generated after 14s.
+2024-08-10 17:17:53,981 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 17:17:54,896 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_34.mp4...
+2024-08-10 17:17:56,416 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:17:56,478 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:18:58,504 - WARNING - Failed to generate small thumbnail at 30s.
+2024-08-10 17:18:59,728 - WARNING - Failed to generate medium thumbnail at 30s.
+2024-08-10 17:18:59,728 - INFO - No more thumbnails generated after 30s.
+2024-08-10 17:18:59,728 - INFO - Generated thumbnails for timestamps up to 30 seconds.
+2024-08-10 17:19:00,757 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_35.mp4...
+2024-08-10 17:19:01,431 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:19:01,488 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:19:01,488 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_36.mp4...
+2024-08-10 17:19:02,618 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:19:02,669 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:19:19,079 - WARNING - Failed to generate small thumbnail at 12s.
+2024-08-10 17:19:19,593 - WARNING - Failed to generate medium thumbnail at 12s.
+2024-08-10 17:19:19,593 - INFO - No more thumbnails generated after 12s.
+2024-08-10 17:19:19,593 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 17:19:20,272 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_37.mp4...
+2024-08-10 17:19:21,409 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:19:21,457 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:19:37,094 - WARNING - Failed to generate small thumbnail at 11s.
+2024-08-10 17:19:37,605 - WARNING - Failed to generate medium thumbnail at 11s.
+2024-08-10 17:19:37,605 - INFO - No more thumbnails generated after 11s.
+2024-08-10 17:19:37,605 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 17:19:38,345 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_38.mp4...
+2024-08-10 17:19:39,279 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:19:39,349 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:19:39,349 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_39.mp4...
+2024-08-10 17:19:40,511 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:19:40,562 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:19:59,124 - WARNING - Failed to generate small thumbnail at 14s.
+2024-08-10 17:19:59,591 - WARNING - Failed to generate medium thumbnail at 14s.
+2024-08-10 17:19:59,591 - INFO - No more thumbnails generated after 14s.
+2024-08-10 17:19:59,591 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 17:20:00,352 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_40.mp4...
+2024-08-10 17:20:01,831 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:20:01,876 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:21:14,234 - WARNING - Failed to generate small thumbnail at 30s.
+2024-08-10 17:21:15,913 - WARNING - Failed to generate medium thumbnail at 30s.
+2024-08-10 17:21:15,913 - INFO - No more thumbnails generated after 30s.
+2024-08-10 17:21:15,913 - INFO - Generated thumbnails for timestamps up to 30 seconds.
+2024-08-10 17:21:16,894 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_41.mp4...
+2024-08-10 17:21:18,165 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:21:18,219 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:22:08,730 - WARNING - Failed to generate small thumbnail at 22s.
+2024-08-10 17:22:10,108 - WARNING - Failed to generate medium thumbnail at 22s.
+2024-08-10 17:22:10,108 - INFO - No more thumbnails generated after 22s.
+2024-08-10 17:22:10,108 - INFO - Generated thumbnails for timestamps up to 22 seconds.
+2024-08-10 17:22:10,991 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_42.mp4...
+2024-08-10 17:22:12,558 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:22:12,615 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:22:41,589 - WARNING - Failed to generate small thumbnail at 15s.
+2024-08-10 17:22:42,631 - WARNING - Failed to generate medium thumbnail at 15s.
+2024-08-10 17:22:42,632 - INFO - No more thumbnails generated after 15s.
+2024-08-10 17:22:42,632 - INFO - Generated thumbnails for timestamps up to 15 seconds.
+2024-08-10 17:22:43,676 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240808181704_5512609-hd_1080_1920_25fps.mp4...
+2024-08-10 17:22:44,939 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:22:45,007 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:23:19,194 - WARNING - Failed to generate small thumbnail at 21s.
+2024-08-10 17:23:20,032 - WARNING - Failed to generate medium thumbnail at 21s.
+2024-08-10 17:23:20,032 - INFO - No more thumbnails generated after 21s.
+2024-08-10 17:23:20,032 - INFO - Generated thumbnails for timestamps up to 21 seconds.
+2024-08-10 17:23:20,845 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/2_20240808181708_9861969-uhd_1440_2732_25fps.mp4...
+2024-08-10 17:23:22,015 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:23:22,069 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:23:46,701 - WARNING - Failed to generate small thumbnail at 14s.
+2024-08-10 17:23:47,512 - WARNING - Failed to generate medium thumbnail at 14s.
+2024-08-10 17:23:47,512 - INFO - No more thumbnails generated after 14s.
+2024-08-10 17:23:47,512 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 17:23:48,372 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/3_20240808181711_8045175-hd_1080_1920_25fps.mp4...
+2024-08-10 17:23:49,532 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:23:49,591 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:24:04,009 - WARNING - Failed to generate small thumbnail at 11s.
+2024-08-10 17:24:04,415 - WARNING - Failed to generate medium thumbnail at 11s.
+2024-08-10 17:24:04,415 - INFO - No more thumbnails generated after 11s.
+2024-08-10 17:24:04,415 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 17:24:05,176 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/4_20240808181713_7414127-hd_1920_1080_24fps.mp4...
+2024-08-10 17:24:05,961 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:24:06,018 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:24:06,018 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/5_20240808181715_8032945-uhd_1440_2560_24fps.mp4...
+2024-08-10 17:24:07,221 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:24:07,283 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:24:25,176 - WARNING - Failed to generate small thumbnail at 11s.
+2024-08-10 17:24:25,768 - WARNING - Failed to generate medium thumbnail at 11s.
+2024-08-10 17:24:25,769 - INFO - No more thumbnails generated after 11s.
+2024-08-10 17:24:25,769 - INFO - Generated thumbnails for timestamps up to 11 seconds.
+2024-08-10 17:24:26,533 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/6_20240808181718_7515918-hd_1080_1920_30fps.mp4...
+2024-08-10 17:24:27,703 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:24:27,749 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:24:47,777 - WARNING - Failed to generate small thumbnail at 14s.
+2024-08-10 17:24:48,348 - WARNING - Failed to generate medium thumbnail at 14s.
+2024-08-10 17:24:48,348 - INFO - No more thumbnails generated after 14s.
+2024-08-10 17:24:48,348 - INFO - Generated thumbnails for timestamps up to 14 seconds.
+2024-08-10 17:24:49,132 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/7_20240808181721_5992585-uhd_1440_2560_25fps.mp4...
+2024-08-10 17:24:50,320 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:24:50,371 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:25:08,268 - WARNING - Failed to generate small thumbnail at 12s.
+2024-08-10 17:25:08,825 - WARNING - Failed to generate medium thumbnail at 12s.
+2024-08-10 17:25:08,825 - INFO - No more thumbnails generated after 12s.
+2024-08-10 17:25:08,825 - INFO - Generated thumbnails for timestamps up to 12 seconds.
+2024-08-10 17:25:09,584 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/8_20240808181724_8045109-hd_1080_1920_25fps.mp4...
+2024-08-10 17:25:10,757 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:25:10,811 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:25:27,713 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 17:25:28,177 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 17:25:28,178 - INFO - No more thumbnails generated after 13s.
+2024-08-10 17:25:28,178 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 17:25:28,906 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/9_20240808181728_6077718-uhd_2560_1440_25fps.mp4...
+2024-08-10 17:25:30,420 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:25:30,488 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:26:00,333 - WARNING - Failed to generate small thumbnail at 15s.
+2024-08-10 17:26:01,356 - WARNING - Failed to generate medium thumbnail at 15s.
+2024-08-10 17:26:01,356 - INFO - No more thumbnails generated after 15s.
+2024-08-10 17:26:01,356 - INFO - Generated thumbnails for timestamps up to 15 seconds.
+2024-08-10 17:26:02,422 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/10_20240808181733_7612773-hd_1080_1920_25fps.mp4...
+2024-08-10 17:26:03,746 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:26:03,794 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:26:32,739 - WARNING - Failed to generate small thumbnail at 19s.
+2024-08-10 17:26:33,547 - WARNING - Failed to generate medium thumbnail at 19s.
+2024-08-10 17:26:33,547 - INFO - No more thumbnails generated after 19s.
+2024-08-10 17:26:33,547 - INFO - Generated thumbnails for timestamps up to 19 seconds.
+2024-08-10 17:26:34,402 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/11_20240808181737_7322355-uhd_1440_2732_25fps.mp4...
+2024-08-10 17:26:35,665 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:26:35,721 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:27:55,164 - WARNING - Failed to generate small thumbnail at 32s.
+2024-08-10 17:27:56,666 - WARNING - Failed to generate medium thumbnail at 32s.
+2024-08-10 17:27:56,666 - INFO - No more thumbnails generated after 32s.
+2024-08-10 17:27:56,666 - INFO - Generated thumbnails for timestamps up to 32 seconds.
+2024-08-10 17:27:57,604 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/12_20240808181744_5642526-hd_1080_1920_25fps.mp4...
+2024-08-10 17:27:58,922 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:27:58,994 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:28:29,533 - WARNING - Failed to generate small thumbnail at 19s.
+2024-08-10 17:28:30,226 - WARNING - Failed to generate medium thumbnail at 19s.
+2024-08-10 17:28:30,226 - INFO - No more thumbnails generated after 19s.
+2024-08-10 17:28:30,226 - INFO - Generated thumbnails for timestamps up to 19 seconds.
+2024-08-10 17:28:31,160 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/13_20240808181753_7181824-uhd_1440_2732_25fps.mp4...
+2024-08-10 17:28:32,566 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:28:32,622 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:28:54,824 - WARNING - Failed to generate small thumbnail at 13s.
+2024-08-10 17:28:55,611 - WARNING - Failed to generate medium thumbnail at 13s.
+2024-08-10 17:28:55,611 - INFO - No more thumbnails generated after 13s.
+2024-08-10 17:28:55,611 - INFO - Generated thumbnails for timestamps up to 13 seconds.
+2024-08-10 17:28:56,454 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/14_20240808181817_2169880-uhd_2560_1440_30fps.mp4...
+2024-08-10 17:28:59,907 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:28:59,992 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:40:35,503 - WARNING - Failed to generate small thumbnail at 86s.
+2024-08-10 17:40:42,514 - WARNING - Failed to generate medium thumbnail at 86s.
+2024-08-10 17:40:42,515 - INFO - No more thumbnails generated after 86s.
+2024-08-10 17:40:42,515 - INFO - Generated thumbnails for timestamps up to 86 seconds.
+2024-08-10 17:40:45,587 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/15_20240808181831_3015510-hd_1920_1080_24fps.mp4...
+2024-08-10 17:40:46,753 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:40:46,802 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:41:15,200 - WARNING - Failed to generate small thumbnail at 20s.
+2024-08-10 17:41:15,782 - WARNING - Failed to generate medium thumbnail at 20s.
+2024-08-10 17:41:15,782 - INFO - No more thumbnails generated after 20s.
+2024-08-10 17:41:15,782 - INFO - Generated thumbnails for timestamps up to 20 seconds.
+2024-08-10 17:41:16,452 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/16_20240808181834_3135808-hd_1920_1080_24fps.mp4...
+2024-08-10 17:41:17,127 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:41:17,184 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
+2024-08-10 17:41:17,184 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/17_20240808181836_2252797-uhd_2560_1440_30fps.mp4...
+2024-08-10 17:41:18,507 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:41:18,572 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:41:57,092 - WARNING - Failed to generate small thumbnail at 18s.
+2024-08-10 17:41:58,297 - WARNING - Failed to generate medium thumbnail at 18s.
+2024-08-10 17:41:58,297 - INFO - No more thumbnails generated after 18s.
+2024-08-10 17:41:58,297 - INFO - Generated thumbnails for timestamps up to 18 seconds.
+2024-08-10 17:41:59,104 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/18_20240808181841_2519660-uhd_2560_1440_24fps.mp4...
+2024-08-10 17:42:00,580 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:42:00,637 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:42:33,273 - WARNING - Failed to generate small thumbnail at 16s.
+2024-08-10 17:42:34,384 - WARNING - Failed to generate medium thumbnail at 16s.
+2024-08-10 17:42:34,384 - INFO - No more thumbnails generated after 16s.
+2024-08-10 17:42:34,384 - INFO - Generated thumbnails for timestamps up to 16 seconds.
+2024-08-10 17:42:35,354 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/19_20240808181847_3018669-hd_1920_1080_24fps.mp4...
+2024-08-10 17:42:36,847 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:42:36,906 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:43:22,060 - WARNING - Failed to generate small thumbnail at 25s.
+2024-08-10 17:43:22,994 - WARNING - Failed to generate medium thumbnail at 25s.
+2024-08-10 17:43:22,994 - INFO - No more thumbnails generated after 25s.
+2024-08-10 17:43:22,994 - INFO - Generated thumbnails for timestamps up to 25 seconds.
+2024-08-10 17:43:23,904 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/20_20240808181851_3629511-hd_720_900_24fps.mp4...
+2024-08-10 17:43:25,029 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:43:25,085 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:43:43,336 - WARNING - Failed to generate small thumbnail at 16s.
+2024-08-10 17:43:43,651 - WARNING - Failed to generate medium thumbnail at 16s.
+2024-08-10 17:43:43,651 - INFO - No more thumbnails generated after 16s.
+2024-08-10 17:43:43,651 - INFO - Generated thumbnails for timestamps up to 16 seconds.
+2024-08-10 17:43:44,327 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/21_20240808181859_2053855-uhd_2560_1440_30fps.mp4...
+2024-08-10 17:43:46,602 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:43:46,679 - INFO - Generating thumbnails for video.mp4...
+2024-08-10 17:46:45,078 - WARNING - Failed to generate small thumbnail at 42s.
+2024-08-10 17:46:48,276 - WARNING - Failed to generate medium thumbnail at 42s.
+2024-08-10 17:46:48,276 - INFO - No more thumbnails generated after 42s.
+2024-08-10 17:46:48,276 - INFO - Generated thumbnails for timestamps up to 42 seconds.
+2024-08-10 17:46:49,937 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/22_20240808181911_1854202-hd_1280_720_25fps.mp4...
+2024-08-10 17:46:51,772 - INFO - Downloaded video to video.mp4.
+2024-08-10 17:46:51,820 - INFO - Generating thumbnails for video.mp4...

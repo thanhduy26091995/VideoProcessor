@@ -73,7 +73,7 @@ def process_videos(url_list):
 if __name__ == "__main__":
     # Input list of video URLs
     url_list = [
-        
+        # Input video URL here
     ]
 
     uploaded_video_urls = process_videos(url_list)

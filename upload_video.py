@@ -73,7 +73,7 @@ def process_videos(url_list):
 if __name__ == "__main__":
     # Input list of video URLs
     url_list = [
-        # Input video URL here
+        "https://videos.pexels.com/video-files/5927708/5927708-hd_1080_1920_30fps.mp4"
     ]
 
     uploaded_video_urls = process_videos(url_list)

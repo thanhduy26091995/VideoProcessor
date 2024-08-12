@@ -5,7 +5,7 @@ import json
 import shutil
 
 # Configuration
-VIDEO_URL = "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/video_14.mp4"
+VIDEO_URL = "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240812063339_5927708-hd_1080_1920_30fps.mp4"
 THUMBNAIL_DIR = "thumbnails"
 THUMBNAIL_INTERVAL = 1  # Interval in seconds to extract thumbnails
 PORT = 8000  # Port for the HTTP server

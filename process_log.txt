@@ -776,3 +776,25 @@
 2024-08-10 18:10:28,456 - INFO - Downloaded video to video.mp4.
 2024-08-10 18:10:28,522 - INFO - Skipping thumbnail generation for video.mp4. Duration is less than 10 seconds.
 2024-08-10 18:10:28,533 - INFO - Processing completed. Results saved to response.json
+2024-08-12 13:34:20,370 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240812063339_5927708-hd_1080_1920_30fps.mp4...
+2024-08-12 13:34:22,909 - INFO - Downloaded video to video.mp4.
+2024-08-12 13:34:23,005 - INFO - Generating thumbnails for video.mp4...
+2024-08-12 13:34:51,085 - WARNING - Failed to generate small thumbnail at 17s.
+2024-08-12 13:34:51,922 - WARNING - Failed to generate medium thumbnail at 17s.
+2024-08-12 13:34:51,923 - INFO - No more thumbnails generated after 17s.
+2024-08-12 13:34:51,923 - INFO - Generated thumbnails for timestamps up to 17 seconds.
+2024-08-12 13:35:19,779 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240812063339_5927708-hd_1080_1920_30fps.mp4...
+2024-08-12 13:35:21,358 - INFO - Downloaded video to video.mp4.
+2024-08-12 13:35:21,418 - INFO - Generating thumbnails for video.mp4...
+2024-08-12 13:35:46,745 - WARNING - Failed to generate small thumbnail at 17s.
+2024-08-12 13:35:47,513 - WARNING - Failed to generate medium thumbnail at 17s.
+2024-08-12 13:35:47,513 - INFO - No more thumbnails generated after 17s.
+2024-08-12 13:35:47,513 - INFO - Generated thumbnails for timestamps up to 17 seconds.
+2024-08-12 13:38:03,473 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240812063339_5927708-hd_1080_1920_30fps.mp4...
+2024-08-12 13:38:04,898 - INFO - Downloaded video to video.mp4.
+2024-08-12 13:38:04,961 - INFO - Generating thumbnails for video.mp4...
+2024-08-12 13:38:31,153 - WARNING - Failed to generate small thumbnail at 17s.
+2024-08-12 13:38:31,903 - WARNING - Failed to generate medium thumbnail at 17s.
+2024-08-12 13:38:31,903 - INFO - No more thumbnails generated after 17s.
+2024-08-12 13:38:31,903 - INFO - Generated thumbnails for timestamps up to 17 seconds.
+2024-08-12 13:38:32,716 - INFO - Processing completed. Results saved to response.json

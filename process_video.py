@@ -9,8 +9,10 @@ from firebase_admin import credentials, storage
 
 # Firebase Admin SDK initialization
 cred = credentials.Certificate("./firebase-service-account-key.json")
+FIREBASE_STORAGE_BUCKET_NAME = "CHANGE YOUR STORAGE BUCKET HERE"
+
 firebase_admin.initialize_app(cred, {
-    'storageBucket': 'smoothscroll-7252a.appspot.com'
+    'storageBucket': FIREBASE_STORAGE_BUCKET_NAME
 })
 
 # Configuration

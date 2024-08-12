@@ -798,3 +798,11 @@
 2024-08-12 13:38:31,903 - INFO - No more thumbnails generated after 17s.
 2024-08-12 13:38:31,903 - INFO - Generated thumbnails for timestamps up to 17 seconds.
 2024-08-12 13:38:32,716 - INFO - Processing completed. Results saved to response.json
+2024-08-12 13:43:24,055 - INFO - Downloading video from https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240812063339_5927708-hd_1080_1920_30fps.mp4...
+2024-08-12 13:43:25,808 - INFO - Downloaded video to video.mp4.
+2024-08-12 13:43:25,870 - INFO - Generating thumbnails for video.mp4...
+2024-08-12 13:43:53,212 - WARNING - Failed to generate small thumbnail at 17s.
+2024-08-12 13:43:53,971 - WARNING - Failed to generate medium thumbnail at 17s.
+2024-08-12 13:43:53,972 - INFO - No more thumbnails generated after 17s.
+2024-08-12 13:43:53,972 - INFO - Generated thumbnails for timestamps up to 17 seconds.
+2024-08-12 13:43:54,720 - INFO - Processing completed. Results saved to response.json

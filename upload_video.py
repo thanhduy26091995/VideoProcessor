@@ -7,7 +7,7 @@ from datetime import datetime
 SERVICE_ACCOUNT_KEY_PATH = "./firebase-service-account-key.json"
 
 # Firebase Storage bucket name
-FIREBASE_STORAGE_BUCKET_NAME = "smoothscroll-7252a.appspot.com"
+FIREBASE_STORAGE_BUCKET_NAME = "CHANGE YOUR STORAGE BUCKET HERE"
 
 def initialize_firebase():
     credentials = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_KEY_PATH)

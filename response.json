@@ -1,0 +1,158 @@
+[
+    {
+        "status": "success",
+        "video_id": "1fe19376-61f2-4df9-81cf-36a60932188d",
+        "processing_status": "completed",
+        "video_url": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/videos/1_20240812063339_5927708-hd_1080_1920_30fps.mp4",
+        "metadata": {
+            "duration": 16916,
+            "width": 1080.0,
+            "height": 1920.0,
+            "bitrate": "4698kbps",
+            "codec": "H.264"
+        },
+        "thumbnails": {
+            "small": [
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_0.jpg",
+                    "time": 0
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_1.jpg",
+                    "time": 1
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_2.jpg",
+                    "time": 2
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_3.jpg",
+                    "time": 3
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_4.jpg",
+                    "time": 4
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_5.jpg",
+                    "time": 5
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_6.jpg",
+                    "time": 6
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_7.jpg",
+                    "time": 7
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_8.jpg",
+                    "time": 8
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_9.jpg",
+                    "time": 9
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_10.jpg",
+                    "time": 10
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_11.jpg",
+                    "time": 11
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_12.jpg",
+                    "time": 12
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_13.jpg",
+                    "time": 13
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_14.jpg",
+                    "time": 14
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_15.jpg",
+                    "time": 15
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/small/thumbnail_16.jpg",
+                    "time": 16
+                }
+            ],
+            "medium": [
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_0.jpg",
+                    "time": 0
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_1.jpg",
+                    "time": 1
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_2.jpg",
+                    "time": 2
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_3.jpg",
+                    "time": 3
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_4.jpg",
+                    "time": 4
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_5.jpg",
+                    "time": 5
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_6.jpg",
+                    "time": 6
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_7.jpg",
+                    "time": 7
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_8.jpg",
+                    "time": 8
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_9.jpg",
+                    "time": 9
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_10.jpg",
+                    "time": 10
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_11.jpg",
+                    "time": 11
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_12.jpg",
+                    "time": 12
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_13.jpg",
+                    "time": 13
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_14.jpg",
+                    "time": 14
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_15.jpg",
+                    "time": 15
+                },
+                {
+                    "thumbnailUrl": "https://storage.googleapis.com/smoothscroll-7252a.appspot.com/thumbnails/1_20240812063339_5927708-hd_1080_1920_30fps/medium/thumbnail_16.jpg",
+                    "time": 16
+                }
+            ]
+        },
+        "previews": []
+    }
+]

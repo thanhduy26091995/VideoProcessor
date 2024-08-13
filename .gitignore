@@ -167,3 +167,4 @@ firebase-service-account-key.json
 *.mp4
 *.mov
 thumbnails
+path/

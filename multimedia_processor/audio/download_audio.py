@@ -76,11 +76,11 @@ def download_audio(urls, output_path='outputs/audios', metadata_file='outputs/au
 
                 # Create the metadata dictionary
                 metadata = {
-                    "audioUrl": audio_url,
+                    "audio_url": audio_url,
                     "name": music_name,
                     "artist": artist,
                     "duration": duration,
-                    "thumbnailUrl": thumbnail_url,
+                    "thumbnail_url": thumbnail_url,
                     "source": url
                 }
                 # Append the metadata to the list

@@ -171,3 +171,6 @@ outputs/thumbnails
 path/
 outputs/
 config.json
+functions/
+.firebaserc
+firebase.json

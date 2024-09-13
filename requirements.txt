@@ -8,4 +8,7 @@ Requests==2.32.3
 yt_dlp==2024.8.6
 psycopg2-binary
 flask-jwt-extended
-python-dotenv
+python-dotenv~=1.0.1
+werkzeug~=3.0.4
+alembic~=1.13.2
+SQLAlchemy~=2.0.34

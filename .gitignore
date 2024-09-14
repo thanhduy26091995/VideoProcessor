@@ -174,3 +174,4 @@ config.json
 functions/
 .firebaserc
 firebase.json
+*.pdf

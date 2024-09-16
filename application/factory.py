@@ -5,6 +5,7 @@ from flask_migrate import Migrate
 
 from application.auth.user import db
 from application.auth.user import user
+from application.response import create_response
 from config import Config
 
 # Load environment variables from a .env file
@@ -21,9 +22,13 @@ def create_app():
     Migrate(app, db)
 
     # Initialize JWT
-    JWTManager(app)
+    jwt = JWTManager(app)
 
     # Register Blueprint
     app.register_blueprint(user, url_prefix='/user')
+
+    @jwt.unauthorized_loader
+    def custom_unauthorized_response(error):
+        return create_response(message="Request does not contain an access token.", code=401)
 
     return app

@@ -1,6 +1,7 @@
 # Video Processing Project
 
 This project provides tools to generate thumbnails, calculate video ratios, and upload videos to Firebase Storage. Follow the instructions below to set up and use the scripts.
+Also it use for practice Python
 
 ## Setup
 
